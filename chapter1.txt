@@ -1,0 +1,3 @@
+1. First create a project folder.
+2. Change the working directory to the folder path in Git Bash.
+3. Change the project folder from normal directory to Git directory so that it can track changes. -> $git init
