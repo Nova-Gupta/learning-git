@@ -1,3 +1,10 @@
 1. First create a project folder.
 2. Change the working directory to the folder path in Git Bash.
 3. Change the project folder from normal directory to Git directory so that it can track changes. -> $git init
+4. Now add all the files to Git staging area. -> $git add .
+5. Now we are ready to commit changes. -> $git commit -m "Commit message"
+6. Connect your local repository with remote repository. -> $ git remote add origin https://github.com/abc-name/my-remote-repo.git
+7. Now push your local changes to the remote repository. -> $git push -u origin main
+8. Check commit. -> $git log
+9. To check status at any point. -> $git status
+10. Point 4-7 repeat after any new change.
