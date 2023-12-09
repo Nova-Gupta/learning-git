@@ -7,4 +7,4 @@
 7. Now push your local changes to the remote repository. -> $git push -u origin main
 8. Check commit. -> $git log
 9. To check status at any point. -> $git status
-10. Point 4-7 repeat after any new change.
+10. Point 4-7 repeat (expect point 6) after any new change.
